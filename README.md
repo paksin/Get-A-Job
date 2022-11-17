@@ -21,15 +21,15 @@ Website link: https://get-a-job.herokuapp.com/
 
 Once you navigate to the link you will be greeted with the home page.
 If not logged in yet log in to view jobs and more!
-![alt text](/public/imgs/homepg.PNG)
+![alt text](/public/imgs/homepg.png)
 
 Through your navigation bar:
 view your profile
-![alt text](/public/imgs/profilepg.PNG)
+![alt text](/public/imgs/profilepg.png)
 
 Or:
 Make and view posts
-![alt text](/public/imgs/feedpg.PNG)
+![alt text](/public/imgs/feedpg.png)
 
 ## Credits
 
