@@ -13,7 +13,7 @@ passport.use(
     {
       clientID: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-      callbackURL: "https://get-a-job.herokuapp.com/google/callback",
+      callbackURL: "https://getajob.herokuapp.com/google/callback",
       passReqToCallback: true,
     },
     async function (req, accessToken, refreshToken, profile, done) {
