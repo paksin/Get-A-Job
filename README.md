@@ -1,5 +1,7 @@
 # Get A Job!
 
+Deployed URL: https://getajob.herokuapp.com/
+
 ## Description
 
 Get a Job is all about networking and creating opportunities for new employees and or unemployeed people looking for a place to start. It allows users to create, and delete posts either looking for a job or reviewing a existing post. This will show future employees what to expect and provide a place to find hiring opportunities. Our motivation was to build something functional and easy for people of any tech background.
